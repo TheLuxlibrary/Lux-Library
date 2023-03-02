@@ -6,6 +6,25 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+.mySwiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+ .swipers {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 850px;
+  }
+
+.swipers img {
+    display: block;
+    width: 100%;
+
+  }
 .section{
     background-color: #0C0B11 !important;
     color: white;
@@ -49,4 +68,8 @@
 }
 .contenido-page{
     padding-top: 80px;
+}
+.carousel {
+    width: 10%;
+    height: 30%;
 }
